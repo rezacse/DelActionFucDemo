@@ -1,0 +1,5 @@
+D:\DevResources\_github\DelActionFucDemo\DelActionFucDemo\bin\Debug\DelActionFucDemo.exe
+D:\DevResources\_github\DelActionFucDemo\DelActionFucDemo\bin\Debug\DelActionFucDemo.pdb
+D:\DevResources\_github\DelActionFucDemo\DelActionFucDemo\obj\Debug\DelActionFucDemo.csprojResolveAssemblyReference.cache
+D:\DevResources\_github\DelActionFucDemo\DelActionFucDemo\obj\Debug\DelActionFucDemo.exe
+D:\DevResources\_github\DelActionFucDemo\DelActionFucDemo\obj\Debug\DelActionFucDemo.pdb
